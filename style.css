@@ -1,0 +1,10 @@
+body{
+    background-color: yellow;
+}
+footer{
+background-color: cyan;  
+color: midnightblue;  
+position: fixed;
+bottom: 0;
+width: 100%;
+}
